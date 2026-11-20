@@ -42,16 +42,16 @@ A production UI is defined by how it handles edge cases and transitions, not jus
 ### 1.3 Empty State
 - **Three Core Elements:**
   1. Contextual illustration or high-clarity icon (not an arbitrary doodle).
-  2. Clear, empathetic heading ("Chưa có bài tập nào được tạo").
-  3. Actionable next step with an immediate CTA ("Tạo bài tập đầu tiên").
+  2. Clear, empathetic heading ("No items created yet").
+  3. Actionable next step with an immediate CTA ("Create your first item").
 - **Educational Value:** Mention what benefits occur once the user completes the action.
 
 ### 1.4 Error State
 - **User-Centric Messaging:** Never dump raw SQL, stack traces, or `500 Internal Server Error` to the user.
-- **Clear Explanation:** Say what went wrong in plain human language ("Không thể tải danh sách học sinh do mất kết nối mạng").
+- **Clear Explanation:** Say what went wrong in plain human language ("Unable to load data due to network connection loss").
 - **Recovery Pathway:** Always provide an immediate recovery mechanism:
-  - Primary button: "Thử lại ngay" (calls re-fetch).
-  - Secondary link: "Kiểm tra trạng thái hệ thống" or "Liên hệ hỗ trợ".
+  - Primary button: "Try again" (triggers re-fetch).
+  - Secondary link: "Check system status" or "Contact support".
   - Collapsible accordion for technical details (error code, trace ID for support tickets).
 
 ### 1.5 Degraded / Partial State

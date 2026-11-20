@@ -100,7 +100,7 @@ Every feature or view must explicitly account for all 5 states:
 1. **Ideal State:** Rich, populated data with realistic constraints (truncate long titles with tooltip, format timestamps relatively and absolutely).
 2. **Loading State:** Contextual skeleton loaders matching the exact geometric layout of incoming content. Avoid generic centered spinning wheels for full page transitions.
 3. **Empty State:** Helpful, friendly, and actionable. Include an expressive graphic/icon, clear explanation of why it is empty, and a primary CTA to create the first item.
-4. **Error State:** Human-readable explanation of what failed, non-technical diagnostics hidden in an expandable section, and a distinct recovery action ("Thử lại", "Quay về trang trước").
+4. **Error State:** Human-readable explanation of what failed, non-technical diagnostics hidden in an expandable section, and a distinct recovery action ("Retry", "Return to previous page").
 5. **Partial / Degraded State:** Graceful degradation when one sub-service fails (e.g., dashboard loads metrics but charts show offline state with cached indicator).
 
 ---

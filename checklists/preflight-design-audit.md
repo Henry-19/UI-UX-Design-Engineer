@@ -5,7 +5,7 @@ Use this checklist to perform a self-audit before shipping any UI component, pag
 ---
 
 ## 1. Visual Hierarchy & Aesthetic Integrity
-- [ ] **Anti-Slop Validation:** Does this interface look distinct, purposeful, and free of generic AI clichés (such as unneeded gradient text, floating card soup, or centered SaaS templates)?
+- [ ] **Anti-Slop Validation:** Does this interface look distinct, purposeful, and free of generic AI cliches (such as unneeded gradient text, floating card soup, or centered SaaS templates)?
 - [ ] **Color Discipline (60-30-10):** Is there a clear dominant background (60%), structural text/borders (30%), and a single focused accent color (10%)?
 - [ ] **Typographic Consistency:** Are font sizes derived from a defined typographic scale (e.g. 1.200 Minor Third) rather than arbitrary pixel sizes?
 - [ ] **Line-Length Control:** Is paragraph width constrained to 65–80 characters for optimal reading ergonomics?

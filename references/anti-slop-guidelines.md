@@ -5,9 +5,9 @@
 
 ---
 
-## 2. Common AI Clichés vs. Bespoke Solutions
+## 2. Common AI Cliches vs. Bespoke Solutions
 
-| AI Cliché Pattern | Why It Fails | Bespoke Professional Alternative |
+| AI Cliche Pattern | Why It Fails | Bespoke Professional Alternative |
 |---|---|---|
 | **Gradient Hero Heading** (e.g., Indigo-to-Cyan or Purple-to-Pink gradient text on H1) | Screams "AI generated 2023 tech template". Hard to read on varied displays, lacks editorial maturity. | High-contrast solid typography with deliberate weight, editorial kerning, or contrasting italic/serif accent words. |
 | **Endless Rounded Floating Cards** (`rounded-2xl shadow-xl border border-gray-100 bg-white p-6`) | Creates visual clutter, fragments related information, wastes vertical and horizontal real estate. | Border-based structural grids, alternating surface bands, subtle inset dividers, and varied informational hierarchy. |
