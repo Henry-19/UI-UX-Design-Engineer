@@ -1,6 +1,16 @@
 # UI/UX Design Engineer Skill (Elite Edition)
 
+[![GitHub Stars](https://img.shields.io/github/stars/Henry-19/UI-UX-Design-Engineer?style=for-the-badge&logo=github)](https://github.com/Henry-19/UI-UX-Design-Engineer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-0a0a0a.svg?style=for-the-badge)](https://skills.sh)
+
 A comprehensive Agent Skill designed for AI Coding Agents (Antigravity, Claude Code, Cursor, Copilot, Windsurf) to elevate user experience, eliminate generic cookie-cutter interfaces ("AI Slop"), and automate production-grade Design System standards.
+
+## ⚡ Quick Install
+
+```bash
+npx skills add Henry-19/UI-UX-Design-Engineer -g
+```
 
 ---
 
